@@ -1,0 +1,5 @@
+import tkinter as tk 
+from tkinter import ttk    
+window = tk.Tk()
+ttk.Label(win, text="Hello World").pack()    
+win.mainloop()  
